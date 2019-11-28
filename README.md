@@ -10,4 +10,8 @@ Una vez descargado, abrir la consola CMD y ejecutar el programa con argumentos. 
 
 C:\Users\tili>java -jar C:\Users\tili\Desktop\Tili\Proyectos\ML\Ejercicio1_jar\Ejercicio1.jar 81644614
 
-Ejecutado el comando, se guardara un archivo .log en la misma carpeta que se ejecuto con los datos.
+Ejecutado el comando, se guardara un archivo .log en la misma carpeta que se corrio el jar, con los datos de los items del o los usuarios indicados.
+
+Para mas de un usuario, por ejemplo:
+
+java -jar C:\Users\tili\Desktop\Tili\Proyectos\ML\out\artifacts\Ejercicio1_jar\Ejercicio1.jar 81644614 451257294
