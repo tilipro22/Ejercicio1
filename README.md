@@ -1,5 +1,4 @@
 # Ejercicio1
-Ejercicio 1 - ML
 
 Proyecto hecho con: Java 8
 
